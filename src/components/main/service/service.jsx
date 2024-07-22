@@ -14,6 +14,13 @@ const Service = () => {
                 <ServiceItem/>
                 <ServiceItem/>
             </div>
+            <div className="dots">
+              <div className="dot dotActive"></div>
+              <div className="dot"></div>
+              <div className="dot"></div>
+              <div className="dot"></div>
+              <div className="dot"></div>
+            </div>
         </div>
     </div>
   )

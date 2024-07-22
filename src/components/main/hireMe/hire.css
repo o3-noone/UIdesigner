@@ -1,0 +1,60 @@
+.Hire{
+    width: 100%;
+    height: 808px;
+    margin-top: 50px;
+    border-radius: 50px;
+    background-color: #f2f4f7;
+    display: flex;
+    align-items: center;
+}
+.hireImg{
+    margin-right: 0;
+}
+.hireText{
+    width: 44%;
+    height: 50%;
+    margin-left: 0;
+}
+.hireText>h3{
+    font-size: 38px;
+    font-family: 'Samibold', sans-serif;
+    font-weight:600;
+
+}
+.hireText>h3>span{
+    color: #fd853a;
+}
+.hireText>p{
+    width: 300px;
+    font-family: 'Samibold', sans-serif;
+    margin-left: 0;
+    margin-top: 50px;
+    line-height: 1.3;
+}
+.hireInfo{
+    width: 450px;
+    display: flex;
+    margin-left: 0;
+    margin-top: 30px;
+}
+.infoHire:first-child{
+    margin-left: 0;
+}
+.infoHire>h4{
+    font-size: 24px;
+    margin-bottom: 10px;
+
+}
+.hireBtns{
+    margin-top: 50px;
+}
+.hireBtn{
+    width: 180px;
+    height: 80px;
+    border: 1px solid black;
+border-radius: 20px;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 24px;
+    cursor: pointer;
+}
